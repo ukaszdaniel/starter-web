@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    ukasz ukasz		email@mail.com		@ukaszyna
 
 # THANKS
 
