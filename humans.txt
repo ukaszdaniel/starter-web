@@ -8,6 +8,7 @@
 # THANKS
 
     dzięki dla mnie
+	modyfikacja humans.txt przy zabawie se stashowaniem
 
 # TECHNOLOGY COLOPHON
 
