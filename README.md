@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 Dodaję tutaj kolejną linijkę, bo edytuję dokument.
 Trzecia linijka rebasing
 zmiana na myfeature
+zmiana w README pod staszowanie
 
 ## Introduction
 Wstęp do czegoś tam.
