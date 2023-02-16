@@ -9,6 +9,7 @@
 
     dzięki dla mnie
 	modyfikacja humans.txt przy zabawie se stashowaniem
+	modyfikacja stashowanie do brancha
 
 # TECHNOLOGY COLOPHON
 
