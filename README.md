@@ -18,4 +18,4 @@ Kontrybucyia
 
 ### Copyright
 
-Kopirajt olrajt
+Kopirajt olrajt edycja do staszowania
